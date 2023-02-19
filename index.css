@@ -5,5 +5,9 @@ body {
 
 a {
     color: lightseagreen;
-    margin: 100px;
+    margin: 250px;
+  }
+
+  img {
+    margin: 0px 0px 0px 70px
   }
