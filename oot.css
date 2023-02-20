@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+}
+
+table {
+    margin-left: auto;
+    margin-right:auto;
+  }
+  
+  th {
+    border: 1px solid;
+  }
+
+  td {
+    border: 1px solid;
+  }
