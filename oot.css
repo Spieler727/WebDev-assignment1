@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 183, 255);
+    background-color: rgb(0, 255, 221);
     text-align: center;
 }
 
@@ -17,9 +17,8 @@ td {
 }
 
 img {
-    width: 300px;
-    height: 250px;
-    margin: 0px 0px 0px 0px;
+    width: 500px;
+    height: 350px;
 }
 
 figure {
@@ -28,12 +27,11 @@ figure {
 
 .column {
     float: left;
-    width: 30%;
-    padding: 20px;
+    width: 33.33%;
+    padding: 0px;
 }
 
 .row::after {
     content: "";
     clear: both;
-    display: table;
 }
