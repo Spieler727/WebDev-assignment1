@@ -8,6 +8,19 @@ a {
     margin: 250px;
   }
 
-  img {
+img {
     margin: 0px 0px 0px 70px
-  }
+}
+
+table {
+  margin-left: auto;
+  margin-right:auto;
+}
+
+th {
+    border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+}
